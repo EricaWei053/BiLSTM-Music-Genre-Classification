@@ -2,6 +2,7 @@
 This is a class project for class COMS6998 Fundemental Speech Recognition at Columbia. 
 
 Author: Erica Wei
+
 Date: 12/19/2020
 
 
