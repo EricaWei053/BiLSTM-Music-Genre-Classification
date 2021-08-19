@@ -1,5 +1,5 @@
 ## BiLSTM-Music-Genre-Classification 
-This is a class project for class COMS6998 Fundemental Speech Recognition at Columbia. 
+This is a class project for class COMS6998 Fundemental Speech Recognition at Columbia University. 
 
 Author: Erica Wei
 
